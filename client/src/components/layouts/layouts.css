@@ -1,0 +1,11 @@
+nav 
+{
+    height: 70px;
+}
+nav .navbar-brand {
+    font-size: 35px;
+}
+
+.nav-item .nav-link {
+    font-size: 20px;
+}
